@@ -60,11 +60,8 @@ $$
 \begin{aligned}
 \frac{a}{2\pi}\int_{\theta_{0}(0)}^{\theta_{0}(t)}\sqrt{1+\theta^2}d\theta&=\frac{a}{2\pi}
 \frac{1}{2}\sqrt{1+\theta_{0}(t)^2}+\frac{1}{2}ln(\sqrt{\theta_{0}(t)^2+1}+\theta_{0}(t))\\
-&-\frac{a}{2\pi}\frac{1}{2}\sqrt{1+\theta_{0}(0)^2}-\frac{1}{2}ln(\sqrt{\theta_{0}(0)^2+1}+\theta_{0}(0))\\&=v_{0}t
+&-\frac{a}{2\pi}\frac{1}{2}\sqrt{1+\theta_{0}(0)^2}-\frac{1}{2}ln(\sqrt{\theta_{0}(0)^2+1}+\theta_{0}(0))\\&=-v_{0}t
 \end{aligned}
 $$
 
 利用该公式可以求出每一个时刻$\theta_{0}$的极角.
-
-
-
